@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    background-color: bisque;
+  }
+  .emojis{
+    display:flexbox;
+    flex-direction: row-reverse;
+  }
+  
+  .emoji {
+    border: 1px solid blueviolet;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    text-size-adjust: left;
+  }
+  
+  .emoji h2 {
+    margin: 0;
+    border-bottom: 2px solid purple;
+  }
+  
+  .emoji a {
+    text-decoration: none;
+    background-color: chocolate;
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  h1{
+    text-align: center;
+    font-size: xx-large;
+    background-color: aqua;
+  }
+  
+  
+  .icon {
+    font-size: 6rem;
+   }
